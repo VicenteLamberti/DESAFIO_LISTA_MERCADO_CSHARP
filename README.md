@@ -1,2 +1,2 @@
 # DESAFIO_LISTA_MERCADO_CSHARP
- Exercício em C#
+ Exercício em C# - 01/03/2021
